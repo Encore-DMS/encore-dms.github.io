@@ -1,0 +1,57 @@
+.container {
+  text-align: center;
+}
+
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+}
+
+.container .btn {
+  display: inline-block;
+  padding: .25rem 1rem;
+  font-family: "PT Sans", sans-serif;
+  color: #aa1631;
+  border: .1rem solid #eee;
+  border-radius: .1rem;
+}
+.container .btn:hover,
+.container .btn:focus,
+.container .btn:active,
+.container .btn.active {
+  color: #fff;
+  background-color: #aa1631;
+  border-color: #aa1631;
+}
+
+hr {
+  max-width: 6rem;
+  margin: 3rem auto;
+  border-top-color: #eee;
+  border-bottom: 0;
+}
+
+.collapse {
+  display: none;
+}
+
+/* Matlab Blue */
+.theme-matlab-red .sidebar,
+.theme-matlab-red .sidebar-toggle:active,
+.theme-matlab-red #sidebar-checkbox:focus ~ .sidebar-toggle,
+.theme-matlab-red #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #aa1631;
+}
+.theme-matlab-red .sidebar-toggle:before {
+  background-image: -webkit-linear-gradient(to bottom, #aa1631, #aa1631 20%, #fff 20%, #fff 40%, #aa1631 40%, #aa1631 60%, #fff 60%, #fff 80%, #aa1631 80%, #aa1631 100%);
+  background-image:    -moz-linear-gradient(to bottom, #aa1631, #aa1631 20%, #fff 20%, #fff 40%, #aa1631 40%, #aa1631 60%, #fff 60%, #fff 80%, #aa1631 80%, #aa1631 100%);
+  background-image:     -ms-linear-gradient(to bottom, #aa1631, #aa1631 20%, #fff 20%, #fff 40%, #aa1631 40%, #aa1631 60%, #fff 60%, #fff 80%, #aa1631 80%, #aa1631 100%);
+  background-image:         linear-gradient(to bottom, #aa1631, #aa1631 20%, #fff 20%, #fff 40%, #aa1631 40%, #aa1631 60%, #fff 60%, #fff 80%, #aa1631 80%, #aa1631 100%);
+}
+.theme-matlab-red h1,
+.theme-matlab-red .container a,
+.theme-matlab-red .sidebar-toggle,
+.theme-matlab-red .related-posts li a:hover {
+  color: #aa1631;
+}

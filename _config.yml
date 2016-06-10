@@ -1,0 +1,22 @@
+# Permalinks
+#
+permalink:           pretty
+
+# Setup
+title:               Encore
+tagline:             'Data Management System'
+description:         'Encore is a MATLAB based data management system for scientists.'
+url:                 http://encore-dms.github.io
+baseurl:             ''
+
+# About/contact
+author:
+  name:              Encore-DMS
+  url:               http://encore-dms.github.io
+  email:             symphony-das@googlegroups.com
+
+# Custom vars
+version:             0.0.0.0
+
+github:
+  repo:              https://github.com/Encore-DMS/encore
