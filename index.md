@@ -13,7 +13,7 @@ Scientific Data Management in MATLAB&reg;</h1>
 <hr>
 
 ## What is Encore?
-Encore is a MATLAB based data management system for scientists. It provides a multi-user database for scientific data and a user interface to curate, query, and analyze data.
+Encore is a MATLAB based data management system for scientists. It provides a multi-user database for scientific data and a user interface to curate, query, and share data.
 
 <hr>
 
