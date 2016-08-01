@@ -20,3 +20,6 @@ version:             0.0.0.0
 
 github:
   repo:              https://github.com/Encore-DMS/encore
+
+gitbook:
+  book:              https://cafarm.gitbooks.io/encore

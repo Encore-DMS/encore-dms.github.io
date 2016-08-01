@@ -15,6 +15,8 @@ Scientific Data Management in MATLAB&reg;</h1>
 ## What is Encore?
 Encore is a MATLAB based data management system for scientists. It provides a multi-user database for scientific data and a user interface to curate, query, and share data.
 
+<a href="{{ site.gitbook.book }}/content/" class="btn">Documentation</a>
+
 <hr>
 
 ## Free and Open Source
