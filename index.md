@@ -26,4 +26,4 @@ Encore is released under the [MIT License](https://opensource.org/licenses/MIT),
 
 <hr>
 
-&copy; {{ site.time | date: '%Y' }} Encore-DMS. MATLAB is a registered trademark of The MathWorks, Inc. The OSI logo trademark is the trademark of Open Source Initiative.
+<small>&copy; {{ site.time | date: '%Y' }} Encore-DMS. MATLAB is a registered trademark of The MathWorks, Inc. The OSI logo trademark is the trademark of Open Source Initiative.</small>
