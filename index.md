@@ -20,7 +20,7 @@ Encore is a MATLAB based data management system for scientists. It provides a mu
 <hr>
 
 ## Free and Open Source
-Encore is released under the [MIT License](https://opensource.org/licenses/MIT), which is an [open source license](https://opensource.org/docs/osd). You can share and change the source code to your heart's content!
+Encore is released under the [MIT License](https://opensource.org/licenses/MIT), which is an [open source license](https://opensource.org/docs/osd). Pull requests to the Stage-VSS GitHub organization are welcomed and encouraged.
 
 <img src="public/images/osi.png" srcset="public/images/osi.png 1x, public/images/osi@2x.png 2x" alt="OSI Logo">
 

@@ -8,6 +8,7 @@ tagline:             'Data Management System'
 description:         'Encore is a MATLAB based data management system for scientists.'
 url:                 http://encore-dms.github.io
 baseurl:             ''
+usergroup:           https://groups.google.com/forum/#!forum/symphony-das
 
 # About/contact
 author:
@@ -20,6 +21,7 @@ version:             0.0.0.0
 
 github:
   repo:              https://github.com/Encore-DMS/encore
+  org:               https://github.com/Encore-DMS
 
 gitbook:
   book:              https://cafarm.gitbooks.io/encore
